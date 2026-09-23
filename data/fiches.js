@@ -67,6 +67,12 @@ const FICHES = [
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
 
+  {
+    titre: "Créer des amitiés",
+    categorie: "Vie Estudiantine",
+    texte: "N'ayez pas peur de prendre la premiere initiative.",
+    auteur: "MOI"
+  },
 
   // ===== FIN DE VOS FICHES =====
 
