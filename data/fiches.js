@@ -81,7 +81,16 @@ const FICHES = [
     auteur: "selima"
 
   },
+    {
+    titre: "Le distributeur du deuxième",
+    categorie: "Vie pratique",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
+    auteur: "cyrine"
+  },
+
+
 
   // ===== FIN DE VOS FICHES =====
 
 ];
+
