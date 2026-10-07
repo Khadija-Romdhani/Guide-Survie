@@ -1,3 +1,0 @@
-- Useful to future students
-- Based on personal experience
-- Doesn't have to be only related to academics

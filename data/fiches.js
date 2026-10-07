@@ -87,7 +87,12 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
     auteur: "cyrine"
   },
-
+    {
+    titre: "Ne paniquez pas",
+    categorie: "Côté psychologique",
+    texte: "C'est normal de ne pas tout comprendre à la fois. Ayez confiance en vous même!",
+    auteur: "Khadija"
+  },
 
 
   // ===== FIN DE VOS FICHES =====
