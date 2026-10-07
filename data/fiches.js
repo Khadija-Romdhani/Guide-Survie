@@ -71,7 +71,8 @@ const FICHES = [
     titre: "Créer des amitiés",
     categorie: "Vie Estudiantine",
     texte: "N'ayez pas peur de prendre la premiere initiative.",
-    auteur: "MOI"
+    auteur: "selima"
+
   },
 
   // ===== FIN DE VOS FICHES =====
