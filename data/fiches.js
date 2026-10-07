@@ -70,7 +70,8 @@ const FICHES = [
     titre: "Créez vos propres projets",
     categorie: "Vie pratique",
     texte: "Créez des projets personnels pour vous familiariser de la vie professionnelle.",
-    auteur: "Khadija"},
+    auteur: "Khadija"
+  },
 
 
   {
@@ -101,7 +102,6 @@ const FICHES = [
     auteur: "Khadija"
   },
 
- HEAD
  {
     titre: "soyez à jour",
     categorie: "Côté académique",
@@ -115,9 +115,6 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
     auteur: "Neziha"
   },
-
-
-091969c683c1325ee8746ab592294d99c45942aa
 
   // ===== FIN DE VOS FICHES =====
 
