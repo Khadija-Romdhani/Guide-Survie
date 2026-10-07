@@ -67,6 +67,13 @@ const FICHES = [
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
   {
+    titre: "Créez vos propres projets",
+    categorie: "Vie pratique",
+    texte: "Créez des projets personnels pour vous familiariser de la vie professionnelle.",
+    auteur: "Khadija"},
+
+
+  {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
