@@ -94,6 +94,14 @@ const FICHES = [
     auteur: "Khadija"
   },
 
+  {
+    titre: "Le distributeur du deuxième",
+    categorie: "Vie pratique",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
+    auteur: "Neziha"
+  },
+
+
 
   // ===== FIN DE VOS FICHES =====
 
