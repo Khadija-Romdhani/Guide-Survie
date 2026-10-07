@@ -94,6 +94,12 @@ const FICHES = [
     auteur: "Khadija"
   },
 
+ {
+    titre: "soyez à jour",
+    categorie: "Côté académique",
+    texte: "il faut etre à jour pour bien réussir les devoirs",
+    auteur: "selima"
+  },
 
   // ===== FIN DE VOS FICHES =====
 
