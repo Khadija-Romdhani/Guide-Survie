@@ -67,6 +67,13 @@ const FICHES = [
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
   {
+    titre: "Créez vos propres projets",
+    categorie: "Vie pratique",
+    texte: "Créez des projets personnels pour vous familiariser de la vie professionnelle.",
+    auteur: "Khadija"},
+
+
+  {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
@@ -94,6 +101,23 @@ const FICHES = [
     auteur: "Khadija"
   },
 
+ HEAD
+ {
+    titre: "soyez à jour",
+    categorie: "Côté académique",
+    texte: "il faut etre à jour pour bien réussir les devoirs",
+    auteur: "selima"
+  },
+
+  {
+    titre: "Le distributeur du deuxième",
+    categorie: "Vie pratique",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
+    auteur: "Neziha"
+  },
+
+
+091969c683c1325ee8746ab592294d99c45942aa
 
   // ===== FIN DE VOS FICHES =====
 
