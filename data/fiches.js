@@ -65,6 +65,20 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
 
+  {
+    titre: "Organisation",
+    categorie: "Vie pratique",
+    texte: "Soyez à jour et organisez vos cours.",
+    auteur: "Khadija"
+  },
+
+  {
+    titre: "Evenement",
+    categorie: "Bons plans",
+    texte: "Participez aux plusieurs évènements que les clubs Dauphine organisent",
+    auteur: "Amira"
+  },
+
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
   {
     titre: "Créez vos propres projets",
