@@ -31,6 +31,20 @@ const FICHES = [
   },
 
   {
+    titre: "Mieux organiser son quotidien",
+    categorie: "Vie pratique",
+    texte: "Préparez chaque soir une petite liste de trois priorités pour le lendemain. Cela vous aidera à mieux gérer votre temps et à commencer la journée plus sereinement.",
+    auteur: "selima"
+  },
+
+  {
+    titre: "Faire des économies au quotidien",
+    categorie: "Bons plans",
+    texte: "Comparez les prix de plusieurs magasins avant d'acheter et profitez des promotions sur les produits que vous utilisez régulièrement. Pensez aussi à préparer une liste de courses pour éviter les achats impulsifs.",
+    auteur: "selima"
+  },
+
+  {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
