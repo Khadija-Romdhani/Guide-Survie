@@ -44,6 +44,13 @@ const FICHES = [
     auteur: "selima"
   },
 
+{
+  titre: "Adopter de bonnes habitudes écologiques",
+  categorie: "Vie pratique",
+  texte: "Utilisez une gourde réutilisable et privilégiez les sacs en tissu pour réduire les déchets au quotidien. De petits gestes simples peuvent contribuer à protéger l'environnement et à économiser de l'argent.",
+  auteur: "selima"
+},
+
   {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
