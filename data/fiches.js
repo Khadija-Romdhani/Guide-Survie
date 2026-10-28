@@ -49,7 +49,21 @@ const FICHES = [
     categorie: "Études",
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
     auteur: "L'équipe pédagogique"
+  } ,
+ {
+    titre: "Bien organiser sa journée",
+    categorie: "Vie pratique",
+    texte: "Planifie tes tâches importantes à l’avance et garde un peu de temps pour te reposer.",
+    auteur: "cyrine"
   },
+
+  {
+    titre: "Profiter des bonnes affaires",
+    categorie: "Bons plans",
+    texte: "Compare les prix avant d’acheter et profite des promotions pour faire des économies.",
+    auteur: "cyrine"
+  },
+
 
   {
     titre: "Manger sans se ruiner",
