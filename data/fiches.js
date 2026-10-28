@@ -76,7 +76,14 @@ const FICHES = [
     titre: "Evenement",
     categorie: "Bons plans",
     texte: "Participez aux plusieurs évènements que les clubs Dauphine organisent",
-    auteur: "Amira"
+    auteur: "Khadija"
+  },
+
+  {
+    titre: "Covoiturage",
+    categorie: "Transport",
+    texte: "Créez un groupe de covoiturage avec vos collègues",
+    auteur: "Khadija"
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
