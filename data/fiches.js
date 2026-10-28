@@ -50,6 +50,11 @@ const FICHES = [
     texte: "Un autre conseil.",
     auteur: "Amna"
   },
+    titre: "ma 3 fiche",
+    categorie: "Bons plans",
+    texte: "Un autre conseil.",
+    auteur: "Amna"
+  },
 
 
   {
