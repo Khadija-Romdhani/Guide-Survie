@@ -64,6 +64,12 @@ const FICHES = [
     auteur: "cyrine"
   },
 
+   {
+    titre: "Une méthode pour bien réviser",
+    categorie: "etude",
+    texte: "Travaille dans un endroit calme et fais des pauses régulières pour rester concentré.",
+    auteur: "cyrine"
+  },
 
   {
     titre: "Manger sans se ruiner",
@@ -129,12 +135,7 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
     auteur: "Neziha"
   },
- {
-    titre: "Une méthode pour bien réviser",
-    categorie: "etude"
-    texte: "Travaille dans un endroit calme et fais des pauses régulières pour rester concentré.",
-    auteur: "cyrine"
-  },
+
 
 
   // ===== FIN DE VOS FICHES =====
