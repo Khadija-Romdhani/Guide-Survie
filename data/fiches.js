@@ -42,7 +42,21 @@ const FICHES = [
     categorie: "Transport",
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
     auteur: "L'équipe pédagogique"
+  }, 
+  {
+    titre: "Ne révise pas à la dernière minute",
+    categorie: "Méthodes de travail",
+    texte: "Relis tes cours régulièrement et fais des fiches après chaque chapitre. Même  30 minutes de révision par jour peuvent t'éviter de devoir tout apprendre à la veille des examens.",
+    auteur: "Neziha"
   },
+
+  {
+    titre: "N'hésite pas à demander de l'aide",
+    categorie: "Vie étudiante",
+    texte: "Si tu ne comprends pas un cours, pose tes questions aux professeurs ou travaille avec des camarades. Mieux vaut demander de l'aide dès le début que laisser les diffucltés s'accumuler avant les examens.",
+    auteur: "Neziha"
+  },
+
 
   {
     titre: "Le premier rang n'est pas un piège",
