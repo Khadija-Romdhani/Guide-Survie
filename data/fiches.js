@@ -38,6 +38,21 @@ const FICHES = [
   },
 
   {
+    titre: " ma première fiche",
+    categorie: "Vie pratique",
+    texte: "Un conseil utile, en une ou deux phrases.",
+    auteur: "Amna"
+  },
+
+  {
+    titre: "ma deuxième fiche",
+    categorie: "Bons plans",
+    texte: "Un autre conseil.",
+    auteur: "Amna"
+  },
+
+
+  {
     titre: "Arriver avant 8h30",
     categorie: "Transport",
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
