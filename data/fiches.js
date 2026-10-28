@@ -56,7 +56,12 @@ const FICHES = [
     texte: "Si tu ne comprends pas un cours, pose tes questions aux professeurs ou travaille avec des camarades. Mieux vaut demander de l'aide dès le début que laisser les diffucltés s'accumuler avant les examens.",
     auteur: "Neziha"
   },
-
+{
+  titre: "Organise ton temps dès le début du semestre",
+  categorie: "Organisation",
+  texte: "Note les dates des examens, les devoirs et les échéances importantes dans un agenda. Planifie tes révisions à l’avance pour éviter le stress de dernière minute et garder du temps pour te reposer.",
+  auteur: "Neziha"
+},
 
   {
     titre: "Le premier rang n'est pas un piège",
