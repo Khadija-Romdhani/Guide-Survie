@@ -52,3 +52,6 @@ categories.forEach(function (categorie) {
 // Au chargement, on affiche tout et on active le premier bouton.
 afficher("Toutes");
 document.querySelector(".filtre").classList.add("filtre--actif");
+
+const compteur = document.querySelector("#compteur");
+compteur.textContent = FICHES.length + " fiches dans le guide";
