@@ -269,3 +269,35 @@ button:focus-visible {
   color: var(--couleur-discret);
   margin: 1rem 0 0;
 }
+
+.filtres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 3rem;
+}
+
+.filtre {
+  font-family: var(--police-mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--couleur-texte);
+  background: transparent;
+  border: 1px solid var(--couleur-ligne);
+  border-radius: 2px;
+  padding: 0.45rem 0.8rem;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.filtre:hover {
+  border-color: var(--couleur-accent);
+  color: var(--couleur-accent);
+}
+
+.filtre--actif {
+  background: var(--couleur-accent);
+  border-color: var(--couleur-accent);
+  color: var(--couleur-carte);
+}
