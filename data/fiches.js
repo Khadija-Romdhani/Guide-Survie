@@ -31,27 +31,6 @@ const FICHES = [
   },
 
   {
-    titre: "Mieux organiser son quotidien",
-    categorie: "Vie pratique",
-    texte: "Préparez chaque soir une petite liste de trois priorités pour le lendemain. Cela vous aidera à mieux gérer votre temps et à commencer la journée plus sereinement.",
-    auteur: "selima"
-  },
-
-  {
-    titre: "Faire des économies au quotidien",
-    categorie: "Bons plans",
-    texte: "Comparez les prix de plusieurs magasins avant d'acheter et profitez des promotions sur les produits que vous utilisez régulièrement. Pensez aussi à préparer une liste de courses pour éviter les achats impulsifs.",
-    auteur: "selima"
-  },
-
-{
-  titre: "Adopter de bonnes habitudes écologiques",
-  categorie: "Vie pratique",
-  texte: "Utilisez une gourde réutilisable et privilégiez les sacs en tissu pour réduire les déchets au quotidien. De petits gestes simples peuvent contribuer à protéger l'environnement et à économiser de l'argent.",
-  auteur: "selima"
-},
-
-  {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
@@ -59,51 +38,11 @@ const FICHES = [
   },
 
   {
-    titre: " ma première fiche",
-    categorie: "Vie pratique",
-    texte: "Un conseil utile, en une ou deux phrases.",
-    auteur: "Amna"
-  },
-
-  {
-    titre: "ma deuxième fiche",
-    categorie: "Bons plans",
-    texte: "Un autre conseil.",
-    auteur: "Amna"
-  },
-{
-    titre: "ma 3 fiche",
-    categorie: "Bons plans",
-    texte: "Un autre conseil.",
-    auteur: "Amna"
-  },
-
-
-  {
     titre: "Arriver avant 8h30",
     categorie: "Transport",
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
     auteur: "L'équipe pédagogique"
   }, 
-  {
-    titre: "Ne révise pas à la dernière minute",
-    categorie: "Méthodes de travail",
-    texte: "Relis tes cours régulièrement et fais des fiches après chaque chapitre. Même  30 minutes de révision par jour peuvent t'éviter de devoir tout apprendre à la veille des examens.",
-    auteur: "Neziha"
-  },
-
-  {
-    titre: "N'hésite pas à demander de l'aide",
-    categorie: "Vie étudiante",
-    texte: "Si tu ne comprends pas un cours, pose tes questions aux professeurs ou travaille avec des camarades. Mieux vaut demander de l'aide dès le début que laisser les diffucltés s'accumuler avant les examens.",
-    auteur: "Neziha"
-  },
-{
-  titre: "Organise ton temps dès le début du semestre",
-  categorie: "Organisation",
-  texte: "Note les dates des examens, les devoirs et les échéances importantes dans un agenda. Planifie tes révisions à l’avance pour éviter le stress de dernière minute et garder du temps pour te reposer.",
-  auteur: "Neziha"
-},
 
   {
     titre: "Le premier rang n'est pas un piège",
@@ -111,26 +50,6 @@ const FICHES = [
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
     auteur: "L'équipe pédagogique"
   } ,
- {
-    titre: "Bien organiser sa journée",
-    categorie: "Vie pratique",
-    texte: "Planifie tes tâches importantes à l’avance et garde un peu de temps pour te reposer.",
-    auteur: "cyrine"
-  },
-
-  {
-    titre: "Profiter des bonnes affaires",
-    categorie: "Bons plans",
-    texte: "Compare les prix avant d’acheter et profite des promotions pour faire des économies.",
-    auteur: "cyrine"
-  },
-
-   {
-    titre: "Une méthode pour bien réviser",
-    categorie: "etude",
-    texte: "Travaille dans un endroit calme et fais des pauses régulières pour rester concentré.",
-    auteur: "cyrine"
-  },
 
   {
     titre: "Manger sans se ruiner",
@@ -146,79 +65,7 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
 
-  {
-    titre: "Organisation",
-    categorie: "Vie pratique",
-    texte: "Soyez à jour et organisez vos cours.",
-    auteur: "Khadija"
-  },
-
-  {
-    titre: "Evenement",
-    categorie: "Bons plans",
-    texte: "Participez aux plusieurs évènements que les clubs Dauphine organisent",
-    auteur: "Khadija"
-  },
-
-  {
-    titre: "Covoiturage",
-    categorie: "Transport",
-    texte: "Créez un groupe de covoiturage avec vos collègues",
-    auteur: "Khadija"
-  },
-
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
-  {
-    titre: "Créez vos propres projets",
-    categorie: "Vie pratique",
-    texte: "Créez des projets personnels pour vous familiariser de la vie professionnelle.",
-    auteur: "Khadija"
-  },
-
-
-  {
-    titre: "Le distributeur du deuxième",
-    categorie: "Vie pratique",
-    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
-    auteur: "amna"
-  },
-
-
-  {
-    titre: "Créer des amitiés",
-    categorie: "Vie Estudiantine",
-    texte: "N'ayez pas peur de prendre la premiere initiative.",
-    auteur: "selima"
-
-  },
-    {
-    titre: "Le distributeur du deuxième",
-    categorie: "Vie pratique",
-    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
-    auteur: "cyrine"
-  },
-    {
-    titre: "Ne paniquez pas",
-    categorie: "Côté psychologique",
-    texte: "C'est normal de ne pas tout comprendre à la fois. Ayez confiance en vous même!",
-    auteur: "Khadija"
-  },
-
- {
-    titre: "soyez à jour",
-    categorie: "Côté académique",
-    texte: "il faut etre à jour pour bien réussir les devoirs",
-    auteur: "selima"
-  },
-
-  {
-    titre: "Le distributeur du deuxième",
-    categorie: "Vie pratique",
-    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
-    auteur: "Neziha"
-  },
-
-
 
   // ===== FIN DE VOS FICHES =====
 
