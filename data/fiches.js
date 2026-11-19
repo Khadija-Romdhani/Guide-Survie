@@ -66,7 +66,12 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
-
+  {
+    titre: "Covoiturge",
+    categorie: "Transport",
+    texte: "Rejoignez les groupes de covoiturage de Dauphine Tunis.",
+    auteur: "Khadija"
+  }, 
   // ===== FIN DE VOS FICHES =====
 
 ];
