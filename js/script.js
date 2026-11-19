@@ -50,8 +50,21 @@ categories.forEach(function (categorie) {
 });
 
 // Au chargement, on affiche tout et on active le premier bouton.
+
 afficher("Toutes");
 document.querySelector(".filtre").classList.add("filtre--actif");
 
 const compteur = document.querySelector("#compteur");
 compteur.textContent = FICHES.length + " fiches dans le guide";
+
+const bascule = document.querySelector("#bascule");
+
+bascule.addEventListener("click", function () {
+  document.body.classList.toggle("sombre");
+
+  if (document.body.classList.contains("sombre")) {
+    bascule.textContent = "Mode clair";
+  } else {
+    bascule.textContent = "Mode sombre";
+  }
+});

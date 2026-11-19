@@ -301,3 +301,30 @@ button:focus-visible {
   border-color: var(--couleur-accent);
   color: var(--couleur-carte);
 }
+
+body.sombre {
+  --couleur-fond: #23262B;
+  --couleur-carte: #2E3238;
+  --couleur-texte: #ECEAE4;
+  --couleur-discret: #9B978E;
+  --couleur-ligne: #3B4047;
+}
+
+.bascule {
+  font-family: var(--police-mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--couleur-texte);
+  background: transparent;
+  border: 1px solid var(--couleur-ligne);
+  border-radius: 2px;
+  padding: 0.45rem 0.8rem;
+  margin-top: 1.2rem;
+  cursor: pointer;
+}
+
+.bascule:hover {
+  border-color: var(--couleur-accent);
+  color: var(--couleur-accent);
+}
