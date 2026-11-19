@@ -69,7 +69,7 @@ const FICHES = [
   {
     titre: "Covoiturge",
     categorie: "Transport",
-    texte: "Rejoignez les groupes de covoiturage de Dauphine Tunis.",
+    texte: "Rejoignez les groupes de covoiturage de Dauphine Tunis pour aider ou recevoir de l'aide des autres étudiants.",
     auteur: "Khadija"
   }, 
   // ===== FIN DE VOS FICHES =====
