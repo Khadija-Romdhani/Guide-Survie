@@ -11,6 +11,8 @@ est donnée mot pour mot dans l'énoncé du TP.
 
 ## Ouvrir le site
 
+Lien vers le site : https://khadija-romdhani.github.io/Guide-Survie/
+
 Double-cliquez sur `index.html`. Il s'ouvre dans votre navigateur. Il n'y a rien à installer, rien à compiler, aucun serveur à lancer.
 
 Après chaque modification, enregistrez le fichier et rafraîchissez la page du navigateur (`F5`, ou `Cmd + R` sur Mac).
