@@ -35,3 +35,6 @@ FICHES.forEach(function (fiche) {
 
   conteneur.appendChild(carte);
 });
+
+const compteur = document.querySelector("#compteur");
+compteur.textContent = FICHES.length + " fiches dans le guide";

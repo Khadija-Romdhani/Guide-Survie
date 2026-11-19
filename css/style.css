@@ -260,3 +260,12 @@ button:focus-visible {
     transition: none;
   }
 }
+
+.compteur {
+  font-family: var(--police-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--couleur-discret);
+  margin: 1rem 0 0;
+}
