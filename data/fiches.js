@@ -30,6 +30,13 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
 
+  {  
+    titre: "La bibliothèque", 
+    categorie: "Études",
+    texte: "Parfaite le matin pour avancer sur ses dossiers. À privilégier si vous cherchez une prise électrique et le calme absolu.",
+    auteur: "Neziha" 
+  },
+
   {
     titre: "Mieux organiser son quotidien",
     categorie: "Vie pratique",
