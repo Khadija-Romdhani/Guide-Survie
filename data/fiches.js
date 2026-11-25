@@ -36,11 +36,6 @@ const FICHES = [
     texte: "Préparez chaque soir une petite liste de trois priorités pour le lendemain. Cela vous aidera à mieux gérer votre temps et à commencer la journée plus sereinement.",
     auteur: "selima"
   },
-  {titre: "Ma 4e fiche" ,
-   categorie:"bon plan",
-   texte:"Un autre conseil.",
-   auteur: "cyrine"
-  },
 
   {
     titre: "Faire des économies au quotidien",
@@ -222,7 +217,11 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
     auteur: "Neziha"
   },
-
+  {titre: "Ma 4e fiche" ,
+   categorie:"bon plan",
+   texte:"Un autre conseil.",
+   auteur: "cyrine"
+  },
 
 
   // ===== FIN DE VOS FICHES =====
