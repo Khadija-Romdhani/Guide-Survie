@@ -1,3 +1,8 @@
+
+
+
+
+
 /* =============================================================
    LES FICHES DU GUIDE
 
@@ -36,7 +41,12 @@ const FICHES = [
     texte: "Parfaite le matin pour avancer sur ses dossiers. À privilégier si vous cherchez une prise électrique et le calme absolu.",
     auteur: "Neziha" 
   },
-
+  {
+    titre: "Organiser ses révisions efficacement",
+    categorie: "Méthodes de travail",
+    texte: "Divisez vos séances de travail en blocs de 45 minutes suivis d'une pause de 10 minutes. Rédigez des fiches synthétiques pour les formules clés et refaites les exercices sans regarder la correction afin de mieux mémoriser.",
+    auteur: "Amna"
+  },
   {
     titre: "Mieux organiser son quotidien",
     categorie: "Vie pratique",
@@ -58,12 +68,19 @@ const FICHES = [
     auteur: "selima"
   },
 
-{
-  titre: "Adopter de bonnes habitudes écologiques",
-  categorie: "Vie pratique",
-  texte: "Utilisez une gourde réutilisable et privilégiez les sacs en tissu pour réduire les déchets au quotidien. De petits gestes simples peuvent contribuer à protéger l'environnement et à économiser de l'argent.",
-  auteur: "selima"
-},
+  {
+    titre: "Organiser ses révisions efficacement",
+    categorie: "Méthodes de travail",
+    texte: "Divisez vos séances de travail en blocs de 45 minutes suivis d'une pause de 10 minutes. Rédigez des fiches synthétiques pour les formules clés et refaites les exercices sans regarder la correction afin de mieux mémoriser.",
+    auteur: "Amna"  
+  },
+
+  {
+    titre: "Adopter de bonnes habitudes écologiques",
+    categorie: "Vie pratique",
+    texte: "Utilisez une gourde réutilisable et privilégiez les sacs en tissu pour réduire les déchets au quotidien. De petits gestes simples peuvent contribuer à protéger l'environnement et à économiser de l'argent.",
+    auteur: "selima"
+  },
 
   {
     titre: "Le distributeur du deuxième",
