@@ -1,3 +1,8 @@
+
+
+
+
+
 /* =============================================================
    LES FICHES DU GUIDE
 
@@ -36,18 +41,27 @@ const FICHES = [
     texte: "Préparez chaque soir une petite liste de trois priorités pour le lendemain. Cela vous aidera à mieux gérer votre temps et à commencer la journée plus sereinement.",
     auteur: "selima"
   },
+  
+  {
+    titre: "Faire des économies au quotidien",
+    categorie: "Bons plans",
+    texte: "Comparez les prix de plusieurs magasins avant d'acheter et profitez des promotions sur les produits que vous utilisez régulièrement. Pensez aussi à préparer une liste de courses pour éviter les achats impulsifs.",
+    auteur: "selima"
+  },
 
   {
     titre: "Organiser ses révisions efficacement",
-categorie: "Méthodes de travail",
-texte: "Divisez vos séances de travail en blocs de 45 minutes suivis d'une pause de 10 minutes. Rédigez des fiches synthétiques pour les formules clés et refaites les exercices sans regarder la correction afin de mieux mémoriser.",
-auteur: "amna"  },
-{
-  titre: "Adopter de bonnes habitudes écologiques",
-  categorie: "Vie pratique",
-  texte: "Utilisez une gourde réutilisable et privilégiez les sacs en tissu pour réduire les déchets au quotidien. De petits gestes simples peuvent contribuer à protéger l'environnement et à économiser de l'argent.",
-  auteur: "selima"
-},
+    categorie: "Méthodes de travail",
+    texte: "Divisez vos séances de travail en blocs de 45 minutes suivis d'une pause de 10 minutes. Rédigez des fiches synthétiques pour les formules clés et refaites les exercices sans regarder la correction afin de mieux mémoriser.",
+    auteur: "Amna"  
+  },
+
+  {
+    titre: "Adopter de bonnes habitudes écologiques",
+    categorie: "Vie pratique",
+    texte: "Utilisez une gourde réutilisable et privilégiez les sacs en tissu pour réduire les déchets au quotidien. De petits gestes simples peuvent contribuer à protéger l'environnement et à économiser de l'argent.",
+    auteur: "selima"
+  },
 
   {
     titre: "Le distributeur du deuxième",
