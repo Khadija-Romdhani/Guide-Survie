@@ -232,7 +232,11 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
     auteur: "Neziha"
   },
-
+  {titre: "Mieux memoriser ses cours" ,
+   categorie:"Etudes",
+   texte:"Utilisez des fiches de révision, des exemples concrets et des exercices pour mieux retenir les informations.",
+   auteur: "cyrine"
+  },
 
 
   // ===== FIN DE VOS FICHES =====
