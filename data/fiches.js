@@ -35,13 +35,32 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
 
+  {  
+    titre: "Travailler dans la bibliothèque", 
+    categorie: "Études",
+    texte: "Parfaite le matin pour avancer sur ses dossiers. À privilégier si vous cherchez une prise électrique et le calme absolu.",
+    auteur: "Neziha" 
+  },
+  {
+    titre: "Organiser ses révisions efficacement",
+    categorie: "Méthodes de travail",
+    texte: "Divisez vos séances de travail en blocs de 45 minutes suivis d'une pause de 10 minutes. Rédigez des fiches synthétiques pour les formules clés et refaites les exercices sans regarder la correction afin de mieux mémoriser.",
+    auteur: "Amna"
+  },
   {
     titre: "Mieux organiser son quotidien",
     categorie: "Vie pratique",
     texte: "Préparez chaque soir une petite liste de trois priorités pour le lendemain. Cela vous aidera à mieux gérer votre temps et à commencer la journée plus sereinement.",
     auteur: "selima"
   },
-  
+
+ {
+    titre: "Réduire le stress en 5 minutes",
+    categorie: "Bien-être",
+    texte: "Fermez les yeux et respirez profondément : inspirez par le nez pendant 4 secondes, bloquez votre souffle 4 secondes, puis expirez lentement par la bouche pendant 6 secondes. Répétez ce cycle quatre fois pour calmer votre esprit.",
+    auteur: "selima"
+  },
+
   {
     titre: "Faire des économies au quotidien",
     categorie: "Bons plans",
@@ -180,6 +199,14 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+
+  {
+    titre: "Soyez à jour",
+    categorie: "Etude",
+    texte: "Essayez de ne pas tout laisser à la dernière minute. Révisez vos cours le même jour de la séance voire la même semaine. être a jour aide a gérer le stress",
+    auteur: "Khadija"
+  },
+
   {
     titre: "Créez vos propres projets",
     categorie: "Vie pratique",
@@ -229,7 +256,11 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
     auteur: "Neziha"
   },
-
+  {titre: "Mieux memoriser ses cours" ,
+   categorie:"Etudes",
+   texte:"Utilisez des fiches de révision, des exemples concrets et des exercices pour mieux retenir les informations.",
+   auteur: "cyrine"
+  },
 
 
   // ===== FIN DE VOS FICHES =====
