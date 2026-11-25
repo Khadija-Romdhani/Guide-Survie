@@ -217,9 +217,9 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
     auteur: "Neziha"
   },
-  {titre: "Ma 4e fiche" ,
-   categorie:"bon plan",
-   texte:"Un autre conseil.",
+  {titre: "Mieux memoriser ses cours" ,
+   categorie:"Etudes",
+   texte:"Utilisez des fiches de révision, des exemples concrets et des exercices pour mieux retenir les informations. Révisez régulièrement plutôt que de tout apprendre la veille.",
    auteur: "cyrine"
   },
 
