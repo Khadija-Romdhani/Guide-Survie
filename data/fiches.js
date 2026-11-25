@@ -38,12 +38,10 @@ const FICHES = [
   },
 
   {
-    titre: "Faire des économies au quotidien",
-    categorie: "Bons plans",
-    texte: "Comparez les prix de plusieurs magasins avant d'acheter et profitez des promotions sur les produits que vous utilisez régulièrement. Pensez aussi à préparer une liste de courses pour éviter les achats impulsifs.",
-    auteur: "selima"
-  },
-
+    titre: "Organiser ses révisions efficacement",
+categorie: "Méthodes de travail",
+texte: "Divisez vos séances de travail en blocs de 45 minutes suivis d'une pause de 10 minutes. Rédigez des fiches synthétiques pour les formules clés et refaites les exercices sans regarder la correction afin de mieux mémoriser.",
+auteur: "amna"  },
 {
   titre: "Adopter de bonnes habitudes écologiques",
   categorie: "Vie pratique",
