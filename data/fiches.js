@@ -172,7 +172,7 @@ const FICHES = [
   {
     titre: "Soyez à jour",
     categorie: "Etude",
-    texte: "Essayez de ne pas tout laisser à la dernière minute. Révisez vos cours le même jour de la séance voire la même semaine.",
+    texte: "Essayez de ne pas tout laisser à la dernière minute. Révisez vos cours le même jour de la séance voire la même semaine. être a jour aide a gérer le stress",
     auteur: "Khadija"
   },
 
