@@ -44,6 +44,13 @@ const FICHES = [
     auteur: "selima"
   },
 
+ {
+    titre: "Réduire le stress en 5 minutes",
+    categorie: "Bien-être",
+    texte: "Fermez les yeux et respirez profondément : inspirez par le nez pendant 4 secondes, bloquez votre souffle 4 secondes, puis expirez lentement par la bouche pendant 6 secondes. Répétez ce cycle quatre fois pour calmer votre esprit.",
+    auteur: "selima"
+  },
+
   {
     titre: "Faire des économies au quotidien",
     categorie: "Bons plans",
