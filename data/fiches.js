@@ -168,6 +168,14 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+
+  {
+    titre: "Soyez à jour",
+    categorie: "Etude",
+    texte: "Essayez de ne pas tout laisser à la dernière minute. Révisez vos cours le même jour de la séance voire la même semaine.",
+    auteur: "Khadija"
+  },
+
   {
     titre: "Créez vos propres projets",
     categorie: "Vie pratique",
