@@ -222,6 +222,12 @@ const FICHES = [
     auteur: "amna"
   },
 
+    {
+    titre: "Faire des recherches sur votre domaine",
+    categorie: "Vie pratique",
+    texte: "Ne vous limitez pas à ce que vous voyez en classe, faites des recherches vous-même et enrichissez vos connaissances.",
+    auteur: "Khadija"
+  },
 
   {
     titre: "Créer des amitiés",
